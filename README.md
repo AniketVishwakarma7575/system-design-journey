@@ -1,5 +1,3 @@
-
-![Software Engineering Roadmap Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Software%20Engineering%20Roadmap&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Basic%20to%20Advanced%20-%20JavaScript%2C%20Node.js%2C%20DSA%2C%20System%20Design&descAlignY=58&descSize=16)
 <!-- ========================================================= -->
 
 <!--                   ANIMATED ROADMAP HEADER                    -->
