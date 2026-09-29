@@ -25,8 +25,8 @@
 
 
 /*=========================================================================
-    Primitive -> value based behavieor(Stack memory, Immutable)
-    Object -> reffernce based behavior(Contains multiple key-value pairs)
+    Non-Primitive -> value based behavior(Stack memory, Mutable)
+    Object -> reference based behavior(Contains multiple key-value pairs)
 //=========================================================================*/
 
 
